@@ -150,7 +150,7 @@ Displayed detailed network configuration using `ipconfig /all`.
 
 Verified DNS name resolution using `nslookup`.
 
-![NSLookup](screenshots/03-nslookup.png)
+![DNS Lookup](03-nslookup-google.png)
 
 ---
 
